@@ -10,8 +10,8 @@ ____
 ### Currently...
 
 - **Studying** [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html);
-- **Studying** the [T3 Stack](https://create.t3.gg/);
-- **Developing** personal projects with React+Vite.
+- **Studying** Python;
+- **Developing** personal projects with the [T3 Stack](https://create.t3.gg/), Pyhton and Rust.
 
 ____
 
