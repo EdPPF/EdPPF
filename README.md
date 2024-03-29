@@ -11,7 +11,8 @@ ____
 
 - **Studying** [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html);
 - **Studying** Python;
-- **Developing** personal projects with the [T3 Stack](https://create.t3.gg/), Pyhton and Rust.
+- **Studying** Java and it's Web Frameworks;
+- **Developing** personal projects with these three languages.
 
 ____
 
