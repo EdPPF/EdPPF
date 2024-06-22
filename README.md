@@ -3,7 +3,7 @@
 I'm a Computer Engineering student at [Universidade de Brasília (UnB)](https://www.unb.br/), Brazil.
 Focusing on full stack development, most of the time i'll be planning projects and studying new technologies.
 
-Also a member of [{struct}](https://www.struct.unb.br/)!
+Ex-member of [{struct}](https://www.struct.unb.br/)
 
 ____
 
