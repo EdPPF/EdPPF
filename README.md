@@ -1,7 +1,7 @@
 ## About Me!
 
-I'm a Computer Engineering student at [Universidade de Brasília (UnB)](https://www.unb.br/), Brazil.
-Focusing on full stack development, most of the time i'll be planning projects and studying new technologies.
+Computer Engineering student from Brazil.
+Focusing on full stack development, most of the time I'll be planning projects and studying new technologies.
 
 Ex-member of [{struct}](https://www.struct.unb.br/)
 
@@ -16,11 +16,10 @@ ____
 
 ____
 
-### GitHub Stats:
 
 <div align="center">  
-  <img width="52%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdPPF&show_icons=true&count_private=true&hide_border=true&title_color=c73838&icon_color=c73838&text_color=969696&bg_color=303030" alt="EdPPFs GitHub stats" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdPPF&layout=compact&hide_border=true&title_color=383fc7&text_color=969696&bg_color=303030" />
+  <img width="52%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdPPF&show_icons=true&rank_icon=github&count_private=true&hide_border=true&theme=codeSTACKr" alt="EdPPFs GitHub stats" />
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdPPF&layout=compact&hide_border=true&theme=radical" />
 </div>
 
 ____
